@@ -1,4 +1,4 @@
-# Hi there, I'm Ryan 👋
+# Hi there, I'm Ryan 🐻
 
 I am a highly motivated and skilled software developer with over 1000 hours of programming experience. I have gained expertise in front-end and back-end development, using various technologies, frameworks, and best practices.
 
